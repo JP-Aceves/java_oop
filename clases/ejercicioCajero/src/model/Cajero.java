@@ -1,3 +1,5 @@
+package clases.ejercicioCajero.src.model;
+
 public class Cajero {
     private Monedero monedero;
 

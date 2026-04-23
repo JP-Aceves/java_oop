@@ -1,3 +1,6 @@
+package clases.ejercicioCajero.src.model;
+
+
 public class Billete {
         private int valor;
         private int cantidad;
